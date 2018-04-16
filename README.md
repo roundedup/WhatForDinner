@@ -31,11 +31,9 @@ The second is a generator of names of recipes conditioned on the list of ingredi
 
 <b></b>: vector representation of ingredients using word embeddings 
 
+## References
 
-@inproceedings{salvador2017learning,
-  title={Learning Cross-modal Embeddings for Cooking Recipes and Food Images},
-  author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
-          Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2017}
-}
+> Learning Cross-modal Embeddings for Cooking Recipes and Food Images,
+> Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and  Ofli, Ferda and Weber, Ingmar and Torralba, Antonio
+>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+> 2017
