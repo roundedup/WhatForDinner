@@ -7,29 +7,28 @@ The first project is a way to find a new vector representation of ingredients, a
 exploring pairings and discovering new ones. 
 
 The second is a generator of names of recipes conditioned on the list of ingredients. 
+So a sort of ing2recipe.
 
 ## Content
 
 
-<b>pairings_explorer.</b>: RNN code used for training
+<b>ing2recipe.ipynb</b>: RNN generator
 
-<b>pairings_explorer.</b>: RNN generator
+<b>train_ing2recipe.ipynb</b>: RNN code used for training
 
-<b>pairings_explorer.</b>: trained weights for the RNN
+<b>ing2recipe_weights.h5</b>: trained weights for the RNN
 
+<b>pairings_explorer.ipynb</b>: code to explore the pairings using different representations
 
-<b>pairings_explorer.</b>: code to explore the pairings using different representations
+<b>pairings_computation.ipynb</b>: dataset with top 10 pairings for each ingredient for a quick preview
 
-<b>pairings_explorer.</b>: dataset with top 10 pairings for each ingredient for a quick preview
+<b>ingredients_weights.npy</b>: vector representation of ingredients following my weighted definition
 
+<b>ingredients_onehot.npy</b>: vector representation of ingredients through one hot encoding of molecular content
 
+<b>ingredients_word_emb.npy</b>: vector representation of ingredients using word embeddings 
 
-<b>pairings_explorer.</b>: vector representation of ingredients following my weighted definition
-
-<b></b>: vector representation of ingredients through one hot encoding of molecular content
-
-
-<b></b>: vector representation of ingredients using word embeddings 
+<b>molecules_dictionary.npy</b>: ingredient dictionary used by the code 
 
 ## References
 
