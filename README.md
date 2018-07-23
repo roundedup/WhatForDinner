@@ -1,6 +1,6 @@
 # What should I cook for dinner?
 
-A couple of projects built around the [MIT 1M recipe dataset and](http://im2recipe.csail.mit.edu/) the flavor molecules dataset 
+A couple of projects built around the [MIT 1M recipe dataset](http://im2recipe.csail.mit.edu/) and the flavor molecules dataset 
 from [FlavorDB](http://cosylab.iiitd.edu.in/flavordb/).
 
 The first project is a way to find a new vector representation of ingredients, aimed at 
@@ -20,7 +20,7 @@ So a sort of ing2recipe.
 
 <b>pairings_explorer.ipynb</b>: code to explore the pairings using different representations
 
-<b>pairings_computation.ipynb</b>: dataset with top 10 pairings for each ingredient for a quick preview
+<b>pairings.ipynb</b>: dataset with top 10 pairings for each ingredient for a quick preview
 
 <b>ingredients_weights.npy</b>: vector representation of ingredients following my weighted definition
 
